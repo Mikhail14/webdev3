@@ -1,0 +1,33 @@
+.block{
+    width: 200px;
+    border: 5px solid;
+    border-radius: 10px;
+    margin: 20px;
+    background-color: antiquewhite;
+}
+
+.block img{
+    width: 170px;
+    border: 1px solid;
+}
+
+.block button{
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    margin: 5px 10px;
+}
+
+.block button:active{
+    background-color: aqua;
+    box-shadow: black 2px 2px 10px;
+}
+
+.counts{
+    border: 2px solid;
+    border-radius: 10px;
+    margin: 15px;
+    background-color: lightyellow;
+    font-size: 20px;
+}
